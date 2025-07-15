@@ -13,6 +13,4 @@ This app is intended as a screening aid, not a diagnostic tool, and can be usefu
 
 DEMO LINK: https://drive.google.com/file/d/13nSG0un0AOHa9tFGlxmfdPWaw0X9uwdW/view?usp=drive_link
 
-V PREETHA
-RA2411003011726
-1ST YEAR CSE CORE -SRMIST
+
