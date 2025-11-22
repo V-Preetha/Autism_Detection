@@ -11,6 +11,6 @@ The application includes the following modules:
 Each module is presented with countdowns and clear instructions. After completing the tests, the app calculates a score based on the user's performance and provides a final result screen that indicates the likelihood of autism traits.
 This app is intended as a screening aid, not a diagnostic tool, and can be useful for parents, educators, or researchers looking to monitor developmental behavior in children.
 
-DEMO LINK: https://drive.google.com/file/d/13nSG0un0AOHa9tFGlxmfdPWaw0X9uwdW/view?usp=drive_link
+
 
 
